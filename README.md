@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.png" alt="Gomqtt Server logo" width="180">
+</p>
+
 # Go MQTT Chat Server
 
 A high-performance MQTT chat server implementation in Go that supports concurrent connections using non-blocking I/O techniques. This server is designed for handling chat sessions between many clients simultaneously.
